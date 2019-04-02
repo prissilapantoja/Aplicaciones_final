@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Malteada Mango</string>
+		<key>Image</key>
+		<string>bebida</string>
+		<key>Des</key>
+		<string>Take it in early day</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Malteada Chocolate</string>
+		<key>Image</key>
+		<string>bebida1</string>
+		<key>Des</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ensalada</string>
+		<key>Image</key>
+		<string>ensalada1</string>
+		<key>Des</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Platillo 1</string>
+		<key>Image</key>
+		<string>plat1</string>
+		<key>Des</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Papas fritas</string>
+		<key>Image</key>
+		<string>papas1</string>
+		<key>Des</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Smoothie</string>
+		<key>Image</key>
+		<string>bebida3</string>
+		<key>Des</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
